@@ -1,11 +1,11 @@
-### 👋 Hello! Welcome <b> to my </b> Github <b> profile </b>
+### 👋 Hello! Welcome <span style="color: blue"> to my </span> Github <span style="color: blue"> profile </span>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogiomo1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+- 🔭 I’m currently working focused on frontend development, using java and typescript with vue.js
 <!--
 **pedrogiomo1/pedrogiomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
