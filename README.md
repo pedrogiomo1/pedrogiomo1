@@ -1,4 +1,4 @@
-### 👋 Hello! Welcome <span style="color: blue"> to my </span> Github <span style="color: blue"> profile </span>
+### 👋 Hello! Welcome <span style="color: #0000FF"> to my </span> Github <span style="color: blue"> profile </span>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogiomo1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 - 🔭 I’m currently working focused on frontend development, using java and typescript with vue.js
 <!--
