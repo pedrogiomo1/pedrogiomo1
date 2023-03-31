@@ -3,7 +3,7 @@
 - ⚡ I’m currently working on fullstack development. <br>
 - 👨‍🎓 I'm majoring in software engineering.
 
-### Main technologies
+<h3> Main technologies <h3>
 <div style="display: flex">
   Frontend: <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  width="50px"/>
 </div>
-<h2> Other technologies </h2>
+<h3> Other technologies </h3>
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px"/>
