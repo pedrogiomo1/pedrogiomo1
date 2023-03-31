@@ -3,9 +3,9 @@
 - ⚡ I’m currently working on fullstack development. <br>
 - 👨‍🎓 I'm majoring in software engineering.
 
-<h3> Main technologies <h3>
+<h3> Main technologies </h3>
 <div style="display: flex">
-  <small>Frontend:</small> <br>
+  <span style="font-size: 14px">Frontend:</span> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>
