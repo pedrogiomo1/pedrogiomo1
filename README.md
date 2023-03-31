@@ -1,6 +1,6 @@
 ### 👋 Hello! Welcome [to my]() Github [profile]() </span>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogiomo1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-- 🔭 I’m currently working focused on frontend development, using java and typescript with vue.js
+- ⚡ I’m currently working on fullstack development, using Vue.js, Laravel with MySql and Oracle databases.
 <!--
 **pedrogiomo1/pedrogiomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
