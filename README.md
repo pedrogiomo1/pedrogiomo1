@@ -3,6 +3,9 @@
 
 ![GitHub code review events](https://img.shields.io/badge/dynamic/json?color=blue&label=code%20reviews&query=$.length&url=https://api.github.com/users/pedrogiomo1/events?type=PullRequestReviewEvent)
 
+![GitHub pull request events](https://img.shields.io/badge/dynamic/json?color=blue&label=pull%20requests&query=$[?(@.type=="PullRequestEvent")].length&url=https://api.github.com/users/pedrogiomo1/events)
+
+
 - ⚡ I’m currently working on fullstack development. <br>
 - 👨‍🎓 I'm majoring in software engineering.
 <div>
