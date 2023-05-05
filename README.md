@@ -1,10 +1,7 @@
 ### 👋 Hello! Welcome [to my]() Github [profile]()
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogiomo1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
-![GitHub code review events](https://img.shields.io/badge/dynamic/json?color=blue&label=code%20reviews&query=$.length&url=https://api.github.com/users/pedrogiomo1/events?type=PullRequestReviewEvent)
-
-![GitHub pull request events](https://img.shields.io/badge/dynamic/json?color=blue&label=pull%20requests&query=$[?(@.type=="PullRequestEvent")].length&url=https://api.github.com/users/pedrogiomo1/events)
-
+![GitHub code review events](https://img.shields.io/badge/dynamic/json?color=blue&label=Code%20Reviews&query=$.length&url=https://api.github.com/users/pedrogiomo1/events?type=PullRequestReviewEvent)
 
 - ⚡ I’m currently working on fullstack development. <br>
 - 👨‍🎓 I'm majoring in software engineering.
