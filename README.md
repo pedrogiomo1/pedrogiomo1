@@ -1,5 +1,5 @@
 ### 👋 Hello! Welcome [to my]() Github [profile]()
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogiomo1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+[<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogiomo1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>](url)
 
 - ⚡ I’m currently working on fullstack development. <br>
 - 👨‍🎓 I'm majoring in software engineering.
