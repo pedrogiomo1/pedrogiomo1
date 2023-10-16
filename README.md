@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome [to my]() Github [profile]()
-### - ⚡ I’m currently working on fullstack development. <br>
+### - ⚡ I’m currently working on fullstack development.
 ### - 👨‍🎓 I'm majoring in software engineering.
 <div>
 	<h3> My technologies: </h3>
